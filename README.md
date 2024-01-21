@@ -7,7 +7,7 @@
 This repo is the implementation of our manuscript entitled Predicting air quality with a multi-scale spatio-temporal graph attention network. The code is based on Pytorch 1.12.1, and tested on a GeForce RTX 4090 GPU with 24GB memory.
 
 
-In this study, we present an graph-attention-based approach for air quality prediction at multiple monitoring stations termed the Multi-scale Spatio-Temporal Graph Attention Network (MSTGAN). Experiments with two real-world datasets showed the proposed MSTAN achieved the highest prediction accuracies for 12,18 and 24-hour prediction time lengths, compared to several state-of-the-art methods.
+In this study, we present an graph-attention-based approach for air quality prediction at multiple monitoring stations termed the Multi-scale Spatio-Temporal Graph Attention Network (MSTGAN). Experiments with two real-world datasets showed the proposed MSTGAN achieved the highest prediction accuracies for 12,18 and 24-hour prediction time lengths, compared to several state-of-the-art methods.
 
 ## Framework
 
