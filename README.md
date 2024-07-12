@@ -11,7 +11,7 @@ In this study, we present an graph-attention-based approach for air quality pred
 
 ## Framework
 
-![MSTGAN](./Fig/MSTGAN.png)
+![MSTGAN](./Fig/Fig2.jpg)
 
 
 ## Requirements
