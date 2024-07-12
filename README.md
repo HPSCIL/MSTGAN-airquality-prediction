@@ -57,8 +57,18 @@ Model hyperparameters:<br>
 
 
 ## Citation
-To Cite MSTGAN in Publications<br>
-- A paper describing MSTGAN will be submitted to a scientific journal for publication soon<br>
-- For now, you may just cite the URL of the source codes of MSTGAN (https://github.com/HPSCIL/MSTGAN-airquality-prediction) in your publications</font>
+If you find our work useful in your research, please cite:
+
+```
+@article{ZHOU2024121072,
+title = {Predicting air quality using a multi-scale spatiotemporal graph attention network},
+author = {Xinmeng Zhou and Jingyi Wang and Junyi Wang and Qingfeng Guan},
+journal = {Information Sciences},
+volume = {680},
+pages = {121072},
+year = {2024},
+issn = {0020-0255},
+doi = {https://doi.org/10.1016/j.ins.2024.121072}}
+```
 
 
