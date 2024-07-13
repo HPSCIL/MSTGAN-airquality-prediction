@@ -57,7 +57,7 @@ Model hyperparameters:<br>
 
 
 ## Citation
-If you find our work useful in your research, please cite:<br>
+- If you find our work useful in your research, please cite:<br>
 Zhou, X., Wang, J., Wang, J. & Guan, Q.* (2024) Predicting air quality using a multi-scale spatiotemporal graph attention network, Information Sciences, 680: 121072. DOI: 10.1016/j.ins.2024.121072
 
 
